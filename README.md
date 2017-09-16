@@ -9,3 +9,5 @@ https://www.nytimes.com/2017/08/14/world/asia/north-korea-missiles-ukraine-facto
 http://www.ibtimes.co.uk/wannacry-back-again-south-korea-lg-service-centres-hit-by-ransomware-1635365
 
 https://amp.cnn.com/cnn/2017/08/24/europe/ukraine-north-korea-spies/index.html
+
+http://www.securityweek.com/north-korean-hackers-targeting-crypto-currency-exchanges-fireeye
