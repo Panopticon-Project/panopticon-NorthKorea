@@ -17,3 +17,5 @@ https://www.cnbc.com/2017/09/05/north-koreas-nuclear-test-site-at-risk-of-implod
 https://spectrum.ieee.org/riskfactor/telecom/security/nsa-stuxnetstyle-virus-failed-to-infiltrate-north-koreas-nuclear-program?utm_source=hs_email&utm_medium=email&utm_content=56513419&_hsenc=p2ANqtz-8HjsoymJiWVXblxcrOUyp9fL3t8fPLznd7i9zgNPgtFxRFCS8zYo4j1U-3SVOmOESByA3eMmdqFGB3XVaYCGp8WW3w8Q&_hsmi=56513419
 
 http://www.securityweek.com/seoul-says-north-korean-hackers-tried-steal-bitcoins-yonhap
+
+https://arstechnica.com/information-technology/2017/10/as-us-launches-ddos-attacks-n-korea-gets-more-bandwidth-from-russia/
