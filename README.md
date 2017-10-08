@@ -19,3 +19,5 @@ https://spectrum.ieee.org/riskfactor/telecom/security/nsa-stuxnetstyle-virus-fai
 http://www.securityweek.com/seoul-says-north-korean-hackers-tried-steal-bitcoins-yonhap
 
 https://arstechnica.com/information-technology/2017/10/as-us-launches-ddos-attacks-n-korea-gets-more-bandwidth-from-russia/
+
+http://www.securityweek.com/north-korea-gets-second-web-connection-russian-firm
