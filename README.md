@@ -29,3 +29,5 @@ https://www.wsj.com/articles/north-korea-allegedly-used-antivirus-software-to-st
 http://www.securityweek.com/uk-blames-north-korea-cyberattack-crippled-hospitals
 
 http://www.securityweek.com/us-government-shares-details-north-korea-cyber-attacks
+
+https://www.darkreading.com/endpoint/north-korea-faces-accusations-of-hacking-warship-builder-daewoo/d/d-id/1330286?elq_mid=81240&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20171101&cid=NL_DR_EDT_DR_daily_20171101&elqTrackId=3d86dc66c226478296e6ffe8640903d2&elq=393e01bb2ac747e99b12f375fdb302d3&elqaid=81240&elqat=1&elqCampaignId=28561
