@@ -41,3 +41,5 @@ http://www.securityweek.com/australia-police-accidentally-broadcast-arrest-plans
 http://www.securityweek.com/north-koreas-new-front-cyberheists
 
 http://www.securityweek.com/monero-miner-sends-cryptocurrency-north-korean-university
+
+http://www.securityweek.com/industry-reactions-us-blaming-north-korea-wannacry
