@@ -45,3 +45,5 @@ http://www.securityweek.com/monero-miner-sends-cryptocurrency-north-korean-unive
 http://www.securityweek.com/industry-reactions-us-blaming-north-korea-wannacry
 
 http://www.securityweek.com/south-korea-warns-flash-zero-day-exploited-north-korea
+
+https://www.securityweek.com/north-korea-denies-it-hacked-un-sanctions-committee-database
