@@ -47,3 +47,5 @@ http://www.securityweek.com/industry-reactions-us-blaming-north-korea-wannacry
 http://www.securityweek.com/south-korea-warns-flash-zero-day-exploited-north-korea
 
 https://www.securityweek.com/north-korea-denies-it-hacked-un-sanctions-committee-database
+
+https://www.darkreading.com/endpoint/privacy/north-koreas-av-software-contains-pilfered-trend-micro-software-/d/d-id/1331686
