@@ -56,8 +56,10 @@ https://www.securityweek.com/north-korea-linked-hackers-target-academic-institut
 
 https://www.securityweek.com/ryuk-ransomware-suspected-us-newspaper-attack - just for overlap
 
-https://gpinvestigations.pri.org/how-north-korean-hackers-became-the-worlds-greatest-bank-robbers-492a323732a6?source=email-d2a39a534eed-1566745783048-digest.reader------3-49------------------619bb8bb_2b68_4e15_9fc8_e3f18ac65c92-1-----&gi=91526b2fcc5 ??
+https://gpinvestigations.pri.org/how-north-korean-hackers-became-the-worlds-greatest-bank-robbers-492a323732a6? ??
 
 https://www.wired.com/story/how-north-korea-robs-banks-around-world/
 
 https://www.recordedfuture.com/north-korea-internet-tool/
+
+https://arstechnica.com/gadgets/2021/02/north-korea-may-have-hacked-into-pfizer-servers-looking-for-covid-data/
