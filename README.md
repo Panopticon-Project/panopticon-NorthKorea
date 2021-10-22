@@ -63,3 +63,5 @@ https://www.wired.com/story/how-north-korea-robs-banks-around-world/
 https://www.recordedfuture.com/north-korea-internet-tool/
 
 https://arstechnica.com/gadgets/2021/02/north-korea-may-have-hacked-into-pfizer-servers-looking-for-covid-data/
+
+https://therecord.media/twitter-suspends-two-accounts-used-by-dprk-hackers-to-catfish-security-researchers/
