@@ -67,3 +67,5 @@ https://arstechnica.com/gadgets/2021/02/north-korea-may-have-hacked-into-pfizer-
 https://therecord.media/twitter-suspends-two-accounts-used-by-dprk-hackers-to-catfish-security-researchers/
 
 https://www.thedailybeast.com/north-korean-hackers-caught-snooping-on-chinas-cyber-squad
+
+https://www.wired.com/story/north-korea-cryptocurrency-theft-ethereum/
