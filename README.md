@@ -50,8 +50,7 @@ https://www.securityweek.com/north-korea-denies-it-hacked-un-sanctions-committee
 
 https://www.darkreading.com/endpoint/privacy/north-koreas-av-software-contains-pilfered-trend-micro-software-/d/d-id/1331686
 
-https://www.darkreading.com/threat-intelligence/north-korea-linked-cyberattacks-spread-out-of-control-report/d/d-id/1331075?elq_mid=83299&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20180216&cid=NL_DR_EDT_DR_daily_20180216&elqTrackId=05e79deeb9c147869c8266e060e1cffc&elq=6e8100295b3447f89ffaca53f1669f4d&elqaid=83299&elqat=1&elqCampaignId=29759
-
+https://www.darkreading.com/threat-intelligence/north-korea-linked-cyberattacks-spread-out-of-control-report/d/d-id/1331075
 https://www.securityweek.com/north-korea-linked-hackers-target-academic-institutions
 
 https://www.securityweek.com/ryuk-ransomware-suspected-us-newspaper-attack - just for overlap
@@ -69,3 +68,5 @@ https://therecord.media/twitter-suspends-two-accounts-used-by-dprk-hackers-to-ca
 https://www.thedailybeast.com/north-korean-hackers-caught-snooping-on-chinas-cyber-squad
 
 https://www.wired.com/story/north-korea-cryptocurrency-theft-ethereum/
+
+https://www.wired.com/story/north-korea-hacker-internet-outage/
