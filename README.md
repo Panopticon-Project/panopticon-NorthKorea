@@ -70,3 +70,5 @@ https://www.thedailybeast.com/north-korean-hackers-caught-snooping-on-chinas-cyb
 https://www.wired.com/story/north-korea-cryptocurrency-theft-ethereum/
 
 https://www.wired.com/story/north-korea-hacker-internet-outage/
+
+https://www.securityweek.com/north-korea-gov-hackers-caught-sharing-chrome-zero-day
