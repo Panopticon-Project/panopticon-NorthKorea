@@ -72,3 +72,5 @@ https://www.wired.com/story/north-korea-cryptocurrency-theft-ethereum/
 https://www.wired.com/story/north-korea-hacker-internet-outage/
 
 https://www.securityweek.com/north-korea-gov-hackers-caught-sharing-chrome-zero-day
+
+https://www.yna.co.kr/view/AKR20220517143900004
