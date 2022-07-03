@@ -74,3 +74,7 @@ https://www.wired.com/story/north-korea-hacker-internet-outage/
 https://www.securityweek.com/north-korea-gov-hackers-caught-sharing-chrome-zero-day
 
 https://www.yna.co.kr/view/AKR20220517143900004
+
+https://therecord.media/north-korea-accused-of-orchestrating-100-million-harmony-crypto-hack/
+
+https://therecord.media/fbi-investigating-100-million-theft-from-blockchain-company-harmony/
