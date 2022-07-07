@@ -80,3 +80,5 @@ https://therecord.media/north-korea-accused-of-orchestrating-100-million-harmony
 https://therecord.media/fbi-investigating-100-million-theft-from-blockchain-company-harmony/
 
 https://www.reuters.com/technology/crypto-crash-threatens-north-koreas-stolen-funds-it-ramps-up-weapons-tests-2022-06-28
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-187a
