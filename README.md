@@ -82,3 +82,5 @@ https://therecord.media/fbi-investigating-100-million-theft-from-blockchain-comp
 https://www.reuters.com/technology/crypto-crash-threatens-north-koreas-stolen-funds-it-ramps-up-weapons-tests-2022-06-28
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-187a
+
+https://www.securityweek.com/us-north-korean-hackers-targeting-healthcare-sector-maui-ransomware
