@@ -84,3 +84,5 @@ https://www.reuters.com/technology/crypto-crash-threatens-north-koreas-stolen-fu
 https://www.cisa.gov/uscert/ncas/alerts/aa22-187a
 
 https://www.securityweek.com/us-north-korean-hackers-targeting-healthcare-sector-maui-ransomware
+
+https://stairwell.com/news/threat-research-report-maui-ransomware/?utm_source=substack&utm_medium=email
