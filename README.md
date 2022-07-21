@@ -85,4 +85,6 @@ https://www.cisa.gov/uscert/ncas/alerts/aa22-187a
 
 https://www.securityweek.com/us-north-korean-hackers-targeting-healthcare-sector-maui-ransomware
 
-https://stairwell.com/news/threat-research-report-maui-ransomware/?utm_source=substack&utm_medium=email
+https://stairwell.com/news/threat-research-report-maui-ransomware/
+
+https://www.bbc.com/news/technology-62239638
