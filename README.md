@@ -90,3 +90,5 @@ https://stairwell.com/news/threat-research-report-maui-ransomware/
 https://www.bbc.com/news/technology-62239638
 
 https://therecord.media/south-korean-authorities-issue-warning-about-disguised-north-koreans-getting-it-jobs/
+
+https://blog.sekoia.io/the-dprk-delicate-sound-of-cyber/
