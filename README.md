@@ -94,3 +94,5 @@ https://therecord.media/south-korean-authorities-issue-warning-about-disguised-n
 https://blog.sekoia.io/the-dprk-delicate-sound-of-cyber/
 
 https://apnews.com/article/technology-crime-business-hacking-south-korea-967763dc88e422232da54115bb13f4dc
+
+https://slowmist.medium.com/slowmist-our-in-depth-investigation-of-north-korean-apts-large-scale-phishing-attack-on-nft-users-362117600519
