@@ -92,3 +92,5 @@ https://www.bbc.com/news/technology-62239638
 https://therecord.media/south-korean-authorities-issue-warning-about-disguised-north-koreans-getting-it-jobs/
 
 https://blog.sekoia.io/the-dprk-delicate-sound-of-cyber/
+
+https://apnews.com/article/technology-crime-business-hacking-south-korea-967763dc88e422232da54115bb13f4dc
