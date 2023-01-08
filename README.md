@@ -98,3 +98,5 @@ https://apnews.com/article/technology-crime-business-hacking-south-korea-967763d
 https://slowmist.medium.com/slowmist-our-in-depth-investigation-of-north-korean-apts-large-scale-phishing-attack-on-nft-users-362117600519
 
 https://www.nars.go.kr/report/view.do?page=3&cmsCode=CM0043&categoryId=&searchType=&searchKeyword=&brdSeq=41005&utm_source=substack&utm_medium=email
+
+https://asec-ahnlab-com.translate.goog/ko/45204/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&utm_source=substack&utm_medium=email
